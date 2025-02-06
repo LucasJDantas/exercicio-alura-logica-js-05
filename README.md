@@ -1,4 +1,3 @@
-Exercício 5 - Curso de Lógica de Programação na Alura 
 Alura - Lógica de programação
 
 Exercício 5 - Carrinho de compras
